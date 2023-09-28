@@ -1,0 +1,23 @@
+{
+  "name": "tailnodejs",
+  "version": "1.0.0",
+  "description": "Scrape books data from http://books.toscrape.com and store it in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pintu544/tailnode.git"
+  },
+  "author": "Pintu Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pintu544/tailnode/issues"
+  },
+  "homepage": "https://github.com/pintu544/tailnode#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "sqlite3": "^5.1.6"
+  }
+}
